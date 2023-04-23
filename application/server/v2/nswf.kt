@@ -4,4 +4,10 @@
 "api":"https://api.waifu.pics/nsfw/waifu",
 "type":"NSFW",
 "category":"WAIFU"
+},
+{"img":"https://i.pinimg.com/736x/34/47/57/344757e4d5ce3ea3beea9c2fcd2afa34.jpg",
+"title":"Neko",
+"api":"https://api.waifu.pics/nsfw/neko",
+"type":"NSFW",
+"category":"NEKO"
 } ]
