@@ -10,4 +10,16 @@
 "api":"https://api.waifu.pics/nsfw/neko",
 "type":"NSFW",
 "category":"NEKO"
+},
+{"img":"https://preview.redd.it/34ulh4f200t41.jpg?auto=webp&s=433da8a74651b07dad93fd6cb6e26f7b0f2a041e",
+"title":"Trap",
+"api":"https://api.waifu.pics/nsfw/trap",
+"type":"NSFW",
+"category":"TRAP"
+},
+{"img":"https://styles.redditmedia.com/t5_2quok/styles/communityIcon_0u86kgwmort81.png",
+"title":"blowjob",
+"api":"https://api.waifu.pics/nsfw/blowjob",
+"type":"NSFW",
+"category":"BLOWJOB'
 } ]
