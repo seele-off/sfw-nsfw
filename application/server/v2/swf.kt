@@ -28,4 +28,10 @@
 "api":"https://api.waifu.pics/sfw/bully",
 "type":"SFW",
 "category":"BULLY"
+},
+{"img":"https://i.pinimg.com/736x/3d/ed/60/3ded60925b2aebbb19b5ae15e3d8e042.jpg",
+"title":"Cuddle",
+"api":"https://api.waifu.pics/sfw/cuddle",
+"type":"SFW",
+"category":"CUDDLE"
 } ]
