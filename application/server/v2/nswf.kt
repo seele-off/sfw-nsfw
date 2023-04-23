@@ -21,5 +21,5 @@
 "title":"blowjob",
 "api":"https://api.waifu.pics/nsfw/blowjob",
 "type":"NSFW",
-"category":"BLOWJOB'
+"category":"BLOWJOB"
 } ]
