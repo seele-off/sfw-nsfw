@@ -19,7 +19,7 @@
 },
 {"img":"https://64.media.tumblr.com/f3d0e2e7ea36d2d94934b97b0cf6fd28/456f1fcd862250cb-e6/s1280x1920/2713d465a51c4831d9a79b54ac592caa884478b7.jpg",
 "title":"Megumin",
-"api":"https://api.waifu.pics/sfw/megumim",
+"api":"https://api.waifu.pics/sfw/megumin",
 "type":"SFW",
 "category":"MEGUMIN"
 },
