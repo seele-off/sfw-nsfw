@@ -22,4 +22,16 @@
 "api":"https://api.waifu.pics/nsfw/blowjob",
 "type":"NSFW",
 "category":"BLOWJOB"
+},
+{"img":"https://cdn-anime-images-api.hisoka17.repl.co/images/akeno.png",
+"title":"Hentai (NEW API SERVERS)",
+"api":"https://anime-api.hisoka17.repl.co/img/nsfw/hentai",
+"type":"NSFW",
+"category":"HENTAI (NEW API)"
+},
+{"img":"https://cdn-anime-images-api.hisoka17.repl.co/images/irina.png",
+"title":"Boobs (NEW API SERVERS)",
+"api":"https://anime-api.hisoka17.repl.co/img/nsfw/boobs",
+"type":"NSFW",
+"category":"Boobs (NEW API SERVERS)"
 } ]
