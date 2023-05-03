@@ -23,15 +23,21 @@
 "type":"NSFW",
 "category":"BLOWJOB"
 },
-{"img":"https://cdn-anime-images-api.hisoka17.repl.co/images/akeno.png",
-"title":"Hentai (NEW API SERVERS)",
+{"img":"https://cdn-anime-images-api.hisoka17.repl.co/images/hentai_37.gif",
+"title":"Hentai «NEW API»",
 "api":"https://anime-api.hisoka17.repl.co/img/nsfw/hentai",
 "type":"NSFW",
-"category":"HENTAI (NEW API)"
+"category":"Hentai"
 },
-{"img":"https://cdn-anime-images-api.hisoka17.repl.co/images/irina.png",
-"title":"Boobs (NEW API SERVERS)",
+{"img":"https://cdn-anime-images-api.hisoka17.repl.co/images/boobs11.gif",
+"title":"Boobs «NEW API»",
 "api":"https://anime-api.hisoka17.repl.co/img/nsfw/boobs",
 "type":"NSFW",
-"category":"Boobs (NEW API SERVERS)"
+"category":"Boobs"
+},
+{"img":"https://cdn-anime-images-api.hisoka17.repl.co/images/lesb42.gif",
+"title":"Lesbian «NEW API»",
+"api":"https://anime-api.hisoka17.repl.co/img/nsfw/lesbian",
+"type":"NSFW",
+"category":"Lesbian"
 } ]
